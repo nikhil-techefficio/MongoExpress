@@ -1,0 +1,3 @@
+/node_modules/
+# Ignore cache created with the Angular CLI.
+.angular/
